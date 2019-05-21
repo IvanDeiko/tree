@@ -1,0 +1,11 @@
+.hiddenBranch {
+  display: none;
+}
+
+li > span {
+  cursor: pointer;
+}
+
+li > span:hover {
+  font-weight: bold;
+}
