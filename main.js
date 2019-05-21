@@ -1,4 +1,4 @@
-const tree = document.querySelector('#tree');
+const tree = document.querySelector('#tree'); // your code didn't work
 
 function hideBranch(branch) {
   let branchArray = branch.parentNode.children;
